@@ -17,21 +17,21 @@ I have worked on several game development projects across multiple platforms. So
 
 <div>
   <a href="https://github.com/yousefalshaikh17/Xeno-Crisis" target="_blank">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=Xeno-Crisis&theme=transparent&description_lines_count=2&" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kipuki&repo=Xeno-Crisis&theme=transparent&description_lines_count=2&" />
   </a>
 
   <a href="https://github.com/yousefalshaikh17/2d-game-engine" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=2d-game-engine&theme=transparent&description_lines_count=2&" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kipuki&repo=2d-game-engine&theme=transparent&description_lines_count=2&" />
   </a>
 </div>
 <br>
 <div>
   <a href="https://github.com/yousefalshaikh17/3d-game-console-museum" target="_blank">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=3d-game-console-museum&theme=transparent&description_lines_count=2&" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kipuki&repo=3d-game-console-museum&theme=transparent&description_lines_count=2&" />
   </a>
 
   <a href="https://github.com/yousefalshaikh17/x-marks-the-spot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=x-marks-the-spot&theme=transparent&description_lines_count=2&" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kipuki&repo=x-marks-the-spot&theme=transparent&description_lines_count=2&" />
   </a>
 </div>
 
@@ -40,12 +40,12 @@ I have worked on several game development projects across multiple platforms. So
 Provided are samples of my recent research and development tool projects.
 
 <a href="https://github.com/yousefalshaikh17/protein_mesh_simulated_annealing" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=protein_mesh_simulated_annealing&theme=transparent&description_lines_count=2" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kipuki&repo=protein_mesh_simulated_annealing&theme=transparent&description_lines_count=2" />
 </a>
 
 
 <a href="https://github.com/yousefalshaikh17/lua-unit-testing-library" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=lua-unit-testing-library&theme=transparent&description_lines_count=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kipuki&repo=lua-unit-testing-library&theme=transparent&description_lines_count=2" />
 </a>
 
 ## Mobile Development
@@ -53,25 +53,25 @@ Provided are samples of my recent research and development tool projects.
 I have worked on two mobile applications, which can be found below.
 
 <a href="https://github.com/yousefalshaikh17/object-detector-app-for-tourists" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=object-detector-app-for-tourists&theme=transparent&description_lines_count=2&" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kipuki&repo=object-detector-app-for-tourists&theme=transparent&description_lines_count=2&" />
 </a>
 
 <a href="https://github.com/yousefalshaikh17/plant-simulator-game-ios" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=plant-simulator-game-ios&theme=transparent&description_lines_count=2&" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kipuki&repo=plant-simulator-game-ios&theme=transparent&description_lines_count=2&" />
 </a>
 
 ## GitHub Stats
 
 These stats demonstrate my activity on GitHub!
 
-[![Stats](https://github-readme-stats.vercel.app/api/?username=yousefalshaikh17&show_icons=true&theme=transparent)](https://github.com/yousefalshaikh17?tab=repositories)
+[![Stats](https://github-readme-stats.vercel.app/api/?username=kipuki&show_icons=true&theme=transparent)](https://github.com/yousefalshaikh17?tab=repositories)
 
 
 ## GitHub Top Languages
 
 For fun, here are my top languages according to GitHub! This chart has been weighted with values recommended by the developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=leetcode-practice)](https://github.com/yousefalshaikh17?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipuki&layout=donut&theme=transparent&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=leetcode-practice)](https://github.com/yousefalshaikh17?tab=repositories)
 
 
 
